@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+de:/Modeltech_pe_edu_10.4a/examples
+vtest
+Z0 !s110 1598581914
+!i10b 1
+!s100 fcH>0cG_fFBT>Q2Kn?Z8j1
+IHLPGYY8clA?Xij^nLI6T_2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/JIE/Desktop/Project/ex1
+w1401269098
+8D:/Project/ex1/testfixture.v
+FD:/Project/ex1/testfixture.v
+L0 9
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1598581914.000000
+!s107 D:/Project/ex1/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/ex1/testfixture.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtriangle
+R0
+!i10b 1
+!s100 =kTfM2oIW0V<hcdOaT7IX0
+I`>:;f4UU[T@IViFNTGPL50
+R1
+R2
+w1594530436
+8D:/Project/ex1/triangle.v
+FD:/Project/ex1/triangle.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Project/ex1/triangle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/ex1/triangle.v|
+!s101 -O0
+!i113 1
+R5
